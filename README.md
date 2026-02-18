@@ -46,3 +46,4 @@ pair gold 43
 pair gold 44
 pair gold 45
 pair gold 46
+pair gold 47
