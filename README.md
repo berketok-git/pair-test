@@ -38,3 +38,4 @@ pair gold 35
 pair gold 36
 pair gold 37
 pair gold 38
+pair gold 39
