@@ -29,3 +29,4 @@ pair gold 26
 pair gold 27
 pair gold 28
 pair gold 29
+pair gold 30
