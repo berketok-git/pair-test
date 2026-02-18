@@ -8,3 +8,4 @@ pair gold 5
 pair gold 6
 pair gold 7
 pair gold 8
+pair gold 9
