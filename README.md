@@ -11,3 +11,4 @@ pair gold 8
 pair gold 9
 pair gold 10
 pair gold 11
+pair gold 12
