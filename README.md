@@ -21,3 +21,4 @@ pair gold 18
 pair gold 19
 pair gold 20
 pair gold 21
+pair gold 22
