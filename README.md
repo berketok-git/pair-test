@@ -6,3 +6,4 @@ pair gold 3
 pair gold 4
 pair gold 5
 pair gold 6
+pair gold 7
