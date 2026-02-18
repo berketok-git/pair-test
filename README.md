@@ -17,3 +17,4 @@ pair gold 14
 pair gold 15
 pair gold 16
 pair gold 17
+pair gold 18
